@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55704862308",
+    "project_id": "evaluacion-iot3",
+    "storage_bucket": "evaluacion-iot3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55704862308:android:117d17bfac83579006a971",
+        "android_client_info": {
+          "package_name": "com.example.clase_30_09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC28AcZiyIdGzQB6MEmTP0_a4JdbA83oZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

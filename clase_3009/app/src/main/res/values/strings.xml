@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clase_30-09</string>
+    <string name="user_sueldo">Sueldo: %sueldo%</string>
+    <string name="user_name">Nombre: %nombre%</string>
+</resources>
